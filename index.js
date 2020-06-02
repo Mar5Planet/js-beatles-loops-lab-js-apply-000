@@ -28,8 +28,7 @@ const facts = [
 
 function iLoveTheBeatles(num) {
   var store = [];
-  do { store.push('I love the beatles!')
-    } while (store.length < num) 
-  return store;
+  do { store.push('I love the Beatles!')
+    } while (store.length < num && num <15) 
 }
 
