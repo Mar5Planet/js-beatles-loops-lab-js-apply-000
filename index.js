@@ -29,9 +29,7 @@ const facts = [
 function iLoveTheBeatles(num) {
   var store = [];
   do { store.push('I love the beatles!')
-    } while () {
-    
-  }
-  
+    } while (store.length < num) 
+  return store;
 }
 
