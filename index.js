@@ -25,3 +25,13 @@ const facts = [
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
+
+function iLoveTheBeatles(num) {
+  var store = [];
+  do { store.push('I love the beatles!')
+    } while () {
+    
+  }
+  
+}
+
